@@ -51,7 +51,7 @@ body{
 }
 
 .section {
-  background-color: rgb(63, 25, 170);
+  background-color: rgb(73, 36, 153);
   justify-content: center;
   align-items: center;
 }
@@ -70,7 +70,7 @@ body{
 
 .animated-text span {
   display: none;
-  line-height: 1;
+  line-height:1;
 }
 
 .animated-text span.active {

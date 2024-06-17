@@ -38,7 +38,7 @@
   align-items: center;
   width: var(--atom-size);
   height: var(--atom-size);
-  animation: 5s atom infinite cubic-bezier(1, .25, 0, .75);
+  animation: 8s atom infinite cubic-bezier(1, .25, 0, .75);
 }
 @keyframes atom{
   0% {    
@@ -164,7 +164,7 @@
     animation: calc(var(--electron-speed) * 2) electron infinite ease-in-out;
 }
 
-.atom .electron::after { background: #ECB22E;}
+.atom .electron::after { background: #ebaa15;}
 .atom .electron-alpha::after { 
     animation: calc(var(--electron-speed-alpha) * 2) electron infinite ease-in-out; 
     background: #E01E5A;
