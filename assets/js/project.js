@@ -14,10 +14,10 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
+    title: "Online Schedule Appointments System",
+    cardImage: "assets/images/project-page/O1.png",
     description: "A chess engine for a popular game dev engine.",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/O1.png",
     Previewlink: "",
     Githublink: "",
   },
