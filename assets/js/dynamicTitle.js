@@ -1,7 +1,7 @@
 window.onload = function () {
   const favicon = document.getElementById('favicon')
   const pageTitle = document.title
-  const attentionMessage = 'Come back'
+  const attentionMessage = 'Click to See How I '
 
   document.addEventListener('visibilitychange', function (e) {
     const isPageActive = !document.hidden
@@ -14,7 +14,7 @@ window.onload = function () {
       favicon.href = './assets/images/sele.jpg'
     } else {
       document.title = attentionMessage
-      favicon.href = './assets/images/folded.png'
+      favicon.href = './assets/images/sele2.png'
     }
   }
 }
