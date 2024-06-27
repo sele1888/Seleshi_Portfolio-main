@@ -39,7 +39,7 @@ html {
 /*color of education page heading*/
 
 .edu_background {
-  color: #4e00bb;
+  color: #1083e2;
 }
 
 /* -----Education Section CSS----- */
@@ -367,7 +367,7 @@ h1 {
 }
 
 header {
-  background: #3F51B5;
+  background: #1083e2;
   color: #FFFFFF;
   padding: 150px 0;
 }
@@ -468,7 +468,7 @@ header p {
 .timeline-img {
   width: 30px;
   height: 30px;
-  background: #3F51B5;
+  background: #1083e2;
   border-radius: 50%;
   position: absolute;
   left: 50%;
@@ -477,7 +477,7 @@ header p {
 }
 
 .bnt-more {
-  background: #3F51B5;
+  background: #1083e2;
   color: #FFFFFF;
   padding: 8px 20px;
   text-transform: uppercase;
@@ -491,7 +491,7 @@ header p {
 }
 
 .bnt-mor:hover, .bnt-mor:active, .bnt-mor:focus {
-  background: #32408f;
+  background: #1083e2;
   color: #FFFFFF;
   text-decoration: none;
 }
@@ -534,7 +534,7 @@ header p {
 blockquote {
   margin-top: 30px;
   color: #757575;
-  border-left-color: #3F51B5;
+  border-left-color: #1083e2;
   padding: 0 20px;
 }
 

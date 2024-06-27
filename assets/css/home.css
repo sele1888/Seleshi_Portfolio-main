@@ -170,7 +170,7 @@ html[light-mode="dark"] .socialicon{
 }
 
 .socialicon.kaggle:after {
-  background-color: #2d96d8;
+  background-color: #1083e2;
   box-shadow: var(--kaggle);
 }
 

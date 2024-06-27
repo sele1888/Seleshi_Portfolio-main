@@ -73,7 +73,7 @@ html[data-theme="dark"] {
 }
 
 ::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px #0e76a8;
+  -webkit-box-shadow: inset 0 0 6px #1083e2;
   border-radius: 2px;
   background: #feffff;
 }
@@ -87,14 +87,14 @@ html[data-theme="dark"] {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #0e76a8;
+  background: #1083e2;
   
 }
 
 /* Custom Scrollbar for Mozilla Firefox*/
 html{
   overflow-y: visible;
-  scrollbar-color: #0e76a8 #fff;
+  scrollbar-color: #1083e2 #fff;
   scrollbar-width: auto;
 }
 
@@ -116,7 +116,7 @@ body {
 #btnScrollToTop {
   width: 50px;
   height: 50px;
-  background-color: #0e76a8;
+  background-color: #1083e2;
   color: #fff;
   margin: 8px;
   border: none;
@@ -278,7 +278,7 @@ html {
 .dark_toggler:checked:before {
   transform: translate(150%);
   transition: all 0.9s;
-  background-color: #0e76a8;
+  background-color: #1083e2;
 }
 /* end of dark mode toggle switch button */
 
@@ -395,7 +395,7 @@ color: #ffffff !important;
       margin-right: auto;
       bottom: 0;
       width: 32%;
-      border-bottom: 3px solid #0e76a8;
+      border-bottom: 3px solid #f7f9fa;
   }
   
   .nav-item-hover::after {
@@ -406,7 +406,7 @@ color: #ffffff !important;
       height: 0.15em;
       bottom: 0;
       width: 0%;
-      background-color: #0e76a8;
+      background-color: #1083e2;
       transition: all ease-in-out 280ms;
   }
   
@@ -800,7 +800,7 @@ Contact Form In Footer
   font-size: 25px;
   font-weight: 200;
   line-height: 22px;
-  border-bottom: 3px solid #1a93e4;
+  border-bottom: 3px solid #1083e2;
 }
 
 .form-header {
@@ -829,7 +829,7 @@ form {
 }
 
 .form-style-6 h1 {
-  background: #0e76a8;
+  background: #1083e2;
   font-size: 140%;
   font-weight: 300;
   text-align: center;
@@ -859,7 +859,7 @@ form {
   background: transparent;
   margin-bottom: 4%;
   border: #000;
-  border-bottom: 2px solid #0e76a8;
+  border-bottom: 2px solid #1083e2;
   padding: 3%;
   color: rgb(107, 105, 105);
   font: 95% Arial, Helvetica, sans-serif;
@@ -876,9 +876,9 @@ form {
 .form-style-6 input[type="url"]:focus,
 .form-style-6 textarea:focus,
 .form-style-6 select:focus {
-  box-shadow: 0 0 5px #0e76a8;
+  box-shadow: 0 0 5px #1083e2;
   padding: 3%;
-  border: 1px solid #0e76a8;
+  border: 1px solid #1083e2;
   border-radius: 2px;
 }
 
@@ -890,8 +890,8 @@ form {
   width: 100%;
   margin-top: 2rem;
   padding: 3%;
-  background: #0e76a8;
-  border-bottom: 2px solid #0e76a8;
+  background: #1083e2;
+  border-bottom: 2px solid #1083e2;
   border-radius: 23px;
   border-top-style: none;
   border-right-style: none;
@@ -902,7 +902,7 @@ form {
 
 .form-style-6 input[type="submit"]:hover,
 .form-style-6 input[type="button"]:hover {
-  background:#0e76a8;;
+  background:#1083e2;;
 
 }
 
@@ -1031,7 +1031,7 @@ outline: none;
   border-radius: 50px;
   border-style: none;
   transition: 0.5s ease background-color, 0.5s ease box-shadow;
-  background: #0e76a8;
+  background: #1083e2;
 }
 #lnch_btn {
   position: absolute;
