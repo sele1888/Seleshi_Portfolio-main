@@ -35,9 +35,9 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --bg-mybtn: rgb(230, 109, 129);
-  --bg-nav: #0e76a8;
-  --bg-nav-img: linear-gradient(315deg, #0e76a8 0%, #882463 74%);
-  --bg-footer: linear-gradient(315deg, #0e76a8 0%, #882463 74%);
+  --bg-nav: #1083e2;
+  --bg-nav-img: linear-gradient(315deg, #1083e2 0%, #882463 74%);
+  --bg-footer: linear-gradient(315deg, #1083e2 0%, #882463 74%);
   --bg: #191919;
   --text: #ffffff;
   --text-color: #fff;
