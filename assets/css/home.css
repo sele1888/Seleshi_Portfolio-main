@@ -11,8 +11,10 @@ html[data-theme="light"] {
   --bg-icon: #fff;
    --bg1-color: #fff;
   --col-icon-dribbble: #ea4c89;
-  --col-icon-linkedin: #0e76a8;
-  --col-icon-kaggle: #41aff3;  
+  --col-icon-linkedin: #00b0ff
+  ;
+  --col-icon-kaggle: #00b0ff
+  ;  
   --col-icon-instagram: rgb(201, 94, 174);
   --col-icon-mail:rgb(209, 82, 82);
   --col-icon-google-scholar:#3cba54;
@@ -30,7 +32,8 @@ html[data-theme="dark"] {
   --col-box-shadow-hover:inset rgba(255, 255, 255, 1) 2px 2px 4px, 
  inset rgba(255, 255, 255, 0.5) -2px -2px 4px;
   --col-icon-dribbble: #ea4c89;
-  --col-icon-linkedin: #0e76a8;
+  --col-icon-linkedin: #00b0ff
+  ;
   --col-icon-kaggle: #41aff3;
   --col-icon-instagram: rgb(201, 94, 174);
   --col-icon-mail:rgb(209, 82, 82);
@@ -170,7 +173,7 @@ html[light-mode="dark"] .socialicon{
 }
 
 .socialicon.kaggle:after {
-  background-color: #1083e2;
+  background-color: #00b0ff;
   box-shadow: var(--kaggle);
 }
 
