@@ -98,7 +98,11 @@ html[data-theme="dark"] {
 /* Custom Scrollbar for Mozilla Firefox*/
 html{
   overflow-y: visible;
+
+  scrollbar-color: #ecf0f5 #00b0ff;
+
   scrollbar-color: #00b0ff #fff;
+>>>>>>> 41563c47a3a74d994e213549f4d49af5e17c7ce2
   scrollbar-width: auto;
 }
 
