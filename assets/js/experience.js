@@ -13,7 +13,7 @@ const exp = [
   },
   {
     title: "IT Trainer ",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/Gage.png",
     place: "GAGE UNIVERSITY COLLEGE ",
     time: "(September 2018 - June, 2021)",
     desp: "<li> Developed a diverse web development skillset Proficient in HTML, CSS (including Bootstrap), and JavaScript.</li><li>Strong worked to have students understanding of back-end technologies Experience with SQL databases.</li><li>Familiarity with programming languages: Exposure to PHP, Java, and Python</li><li>wored on  emerging technologies: Continuously learning and exploring new areas within the tech field.</li>",
