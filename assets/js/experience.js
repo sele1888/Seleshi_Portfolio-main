@@ -21,9 +21,9 @@ const exp = [
   {
     title: "Research Intern",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would</li>",
+    place: "Web-Based Online Tour and Travel System",
+    time: "(January, 17 - July, 2017)",
+    desp: "<li>Through this experience, I honed my research and analytical skills, while gaining valuable insights into user-centered design and the ever-evolving travel industry. I learned the importance of understanding user needs, staying abreast of new technologies, and collaborating effectively to develop innovative solutions..</li><li>Designed included functionalities like booking systems, payment integrations, and personalized recommendations.</li>",
   },
 ];
 
