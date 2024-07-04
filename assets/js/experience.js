@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "We based software Development ",
+    title: "Full-Stack Developer ",
     cardImage: "assets/images/experience-page/ex.png",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    place: "Freelancer",
+    time: "(June, 2022 - present)",
+    desp: "<li> I Made changes in the progressive web as Contract Web Developer.</li> <li>Made Implemented UI/UX enhancements progressive web applications</li> <li>As a passionate Full-Stack Developer eager to leverage my skills in a professional setting, I've actively honed my abilities by optimizing progressive web applications  through code modifications and feature enhancements. This experience, gained through freelance projects and personal initiatives, has equipped me to improve website performance, user experience, and functionality.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "IT Trainer ",
+    cardImage: "assets/images/experience-page/Gage.png",
+    place: "GAGE UNIVERSITY COLLEGE ",
+    time: "(September 2018 - June, 2021)",
+    desp: "<li> Developed a diverse web development skillset Proficient in HTML, CSS (including Bootstrap), and JavaScript.</li><li>Strong worked to have students understanding of back-end technologies Experience with SQL databases.</li><li>Familiarity with programming languages: Exposure to PHP, Java, and Python</li><li>wored on  emerging technologies: Continuously learning and exploring new areas within the tech field.</li>",
   },
   {
     title: "Research Intern",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "IIT, Bombay",
     time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would</li>",
   },
 ];
 
