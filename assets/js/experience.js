@@ -20,10 +20,10 @@ const exp = [
   },
   {
     title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would</li>",
+    cardImage: "assets/images/experience-page/unity.jpg",
+    place: "Web-Based Online Tour and Travel System",
+    time: "(January, 17 - July, 2017)",
+    desp: "<li>Through this experience, I honed my research and analytical skills, while gaining valuable insights into user-centered design and the ever-evolving travel industry. I learned the importance of understanding user needs, staying abreast of new technologies, and collaborating effectively to develop innovative solutions..</li><li>Designed included functionalities like booking systems, payment integrations, and personalized recommendations.</li>",
   },
 ];
 
@@ -62,28 +62,28 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Front-End Developer ",
+    cardImage: "assets/images/experience-page/html.png",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Solid Foundation: I've built a strong foundation in HTML syntax and best practices, allowing me to create well-structured and semantic web pages.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "UI/UX Developer",
+    cardImage: "assets/images/experience-page/css2.png",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "I can craft complex and responsive layouts using CSS, I have deep understanding of responsive design principles and frameworks like Bootstrap.",
   },
   {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
+    title: "Response Web Developer",
+    cardImage: "assets/images/experience-page/j2.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "I can be Building Interactive website (React, Angular, and Vue.js). My Portfolio showcase my skills & collaboration abilities.",
   },
   {
-    title: "Hakin-Codes",
+    title: "Back-End Developer",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "I'm passionate about building interactive web applications using modern JavaScript frameworks like React, Angular, and Vue.js. My portfolio and code samples showcase my practical skills and ability to collaborate on web development projects.",
   },
 ];
 
