@@ -4,38 +4,38 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "Web Development Trends In 2024",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "Andrew Atlas",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "Discover the web development trends that will predominate in the field in 2024",
+    researchYr: 2023,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "assets/images/research-page/W.png",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "https://atlasiko.com/blog/web-development/web-development-trends/",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "With today’s abundance of various digital solutions, you need to be well-versed with all available technologies and keep up with the latest web development trends to create a standout web-based product. Every year the web changes, obtaining new qualities, standards, functional characteristics, visual effects, etc. In the upcoming year 2024, developers anticipate an even bigger shift in the web development field due to the considerable innovations fast-progressing during 2023.",
     absbox: "absPopup1",
   },
 
   {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    title: "New and improved camera inspired by the human eye",
     authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
+      "University of Maryland",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "Artificial Microsaccade-Enhanced Event Camera (AMI-EV)",
+    researchYr: 2024,
     citebox: "popup2",
-    image: "assets/images/research-page/crossLingual.png",
+    image: "assets/images/research-page/EY.jpg",
     citation: {
       vancouver:
-        "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "University of Maryland https://www.sciencedaily.com/releases/2024/07/240701162221.htm",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 2",
+      "A team led by University of Maryland computer scientists invented a camera mechanism that improves how robots see and react to the world around them. Inspired by how the human eye works, their innovative camera system mimics the tiny involuntary movements used by the eye to maintain clear and stable vision over time.",
     absbox: "absPopup2",
   },
 
