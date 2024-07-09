@@ -1,4 +1,4 @@
-![Awesome Portfolio Website](./readme_assets/banner_apw.png)
+![Awesome Portfolio Website](./readme_assets/01.png)
 
 <div align="center">
 
