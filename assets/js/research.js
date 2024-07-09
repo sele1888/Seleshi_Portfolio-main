@@ -83,6 +83,7 @@ const research = [
   //     "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
   //   researchYr: 2020,
   //   citebox: "popup5",
+  //   image: "assets/images/research-page/semanticSegmentation.png",
   //   citation: {
   //     vancouver:
   //       "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
