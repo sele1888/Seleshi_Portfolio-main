@@ -6,7 +6,7 @@ script.type = 'text/javascript';
 script.src="https://unpkg.com/sweetalert/dist/sweetalert.min.js";
 document.body.appendChild(script);
 
-// Header
+// Header  <li class="nav-item nav-item-hover"><a class="nav-link" href="event.html" target="_blank">Blogs</a></li> for new tab open 
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
@@ -28,7 +28,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="#" target="_blank">Blogs</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="#">Blogs</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
    </li>
@@ -220,8 +220,6 @@ let footer = $(`
       </svg>
     </a>
 
-
-
     <a class="social-button instagram" href="" target="_blank" >
     <!-- svg code for instagram icon -->
       <svg class="instagram-icon-footer" x="0px" y="0px" viewBox="0 0 202.5 202.5"
@@ -246,11 +244,9 @@ let footer = $(`
                                     c6,5.1,10.8,11.5,13.8,18.8c2.9,7.4,7.7,24.1,41.5,17.8" />
     </svg>
     </a>
-
-
-    
     </div>
     </div>
+   <p class="tag" >All work Seleshi M. .</p>
 </footer>
 `);
 

@@ -41,38 +41,38 @@ const research = [
 
   {
     title:
-      "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
-    authors: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis",
+      "Accelerating AI Innovation",
+    authors: " MIT campus",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "THURSDAY, MAY 23,9:00 A.M. - 5:15 P.M.",
+    researchYr: 2023,
     citebox: "popup3",
-    image: "assets/images/research-page/wordRepresentation.png",
+    image: "assets/images/research-page/em.png",
     citation: {
       vancouver:
-        "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "https://event.technologyreview.com/emtech-digital-us-2024/agenda-overview",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 3",
+      "In the ever-evolving landscape of technology and AI, each advancement fortifies the foundation for future innovation. As breakthroughs continue to unfold, they not only bring new capabilities but also propel us toward faster, more impactful innovations. Brace yourself for the imminent era of accelerated AI innovation.",
     absbox: "absPopup3",
   },
 
   {
     title:
-      "A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking",
+      "LockBit’s latest attack shows why fintech needs more zero trust",
     authors:
-      "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou",
+      " “We’re going into the July 4th weekend, and I bet it’s no coincidence for this to hit now—security never takes a holiday”. Wise words from an experienced CISO.",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "We want to hear from you! Take our quick AI survey and share your insights on the current state of AI, how you’re implementing it, and what you expect to see in the future.",
+    researchYr: 2024,
     citebox: "popup4",
-    image: "assets/images/research-page/dialogueState.png",
+    image: "assets/images/research-page/KEY.png",
     citation: {
       vancouver:
-        "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "https://venturebeat.com/ai/lockbits-latest-attack-shows-why-fintech-needs-more-zero-trust/",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 4",
+      "Fintech has a cybersecurity problem. LockBit’s ransomware attack on Evolve and the risk it placed on its partnership network show why the industry needs to focus more on the foundations of zero trust across financial networks. When the Federal Reserve finds gaps two weeks before a ransom attack, it’s time to rethink cyber resilience and cybersecurity at the company and industry level. CISOs are needed to bring the resilience and experience fintechs need to stay secure and grow.",
     absbox: "absPopup4",
   },
 
