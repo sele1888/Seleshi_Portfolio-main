@@ -441,7 +441,7 @@ html[light-mode="light"] .nav-link{
   color: #000000 !important;
 }
 html[light-mode="light"] .nav-link:hover{
-  color: 	rgb(8, 88, 236) !important;
+  color: 	#00b0ff;
 }
 html[light-mode="light"] .navbar-brand:hover{
   color: #000000 !important;
