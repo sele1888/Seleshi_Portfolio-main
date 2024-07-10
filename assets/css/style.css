@@ -99,10 +99,10 @@ html[data-theme="dark"] {
 html{
   overflow-y: visible;
 
-  scrollbar-color: #ecf0f5 #00b0ff;
+  scrollbar-color: #f1f3f5 #00b0ff;
 
   scrollbar-color: #00b0ff #fff;
->>>>>>> 41563c47a3a74d994e213549f4d49af5e17c7ce2
+
   scrollbar-width: auto;
 }
 
@@ -238,15 +238,17 @@ html {
 
 .navbar-brand {
   font-family: Agustina;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold;
+  
 }
 
 .navbar {
   color: #000000;
-  background-color: #fff;
+  background-color: #ffffff;
   z-index: 2;
   box-shadow: 0 2px 2px rgb(230, 230, 230);
+  
 }
 
 /* Dark Mode toggle switch button */
@@ -545,7 +547,7 @@ html[light-mode="light"] .navbar-brand:hover{
   text-align: left;
   color: #fff;
   height: 78px;
-  margin: 1% auto 0px;
+  margin: 0px auto 0px;
   display: block;
   box-sizing: border-box;
 }
@@ -557,7 +559,7 @@ html[light-mode="light"] .navbar-brand:hover{
   text-align: left;
   color: #fff;
   height: 78px;
-  margin: -50px auto 0px;
+  margin: -40px auto 0px;
   display: block;
   box-sizing: border-box;
 }
