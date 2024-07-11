@@ -238,7 +238,7 @@ html {
 
 .navbar-brand {
   font-family: Agustina;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
   
 }
@@ -643,6 +643,7 @@ Rotate Transition in foote Soical Icon
 }
 
 
+
 /*
 -----------------------------
  LINKEDIN MICROANIMATION
@@ -788,6 +789,26 @@ Rotate Transition in foote Soical Icon
   margin-bottom: 8px;
   width: 35px;
 }
+/* youtube */
+.youtube-icon-footer {
+  margin-bottom: 8px;
+  width: 35px;
+}
+/* telegram */
+.telegram-icon-footer {
+  margin-bottom: 8px;
+  width: 35px;
+}
+/* whatsapp */
+.whatsapp-icon-footer {
+  margin-bottom: 8px;
+  width: 35px;
+}
+/* facebook */
+.facebook-icon-footer {
+  margin-bottom: 8px;
+  width: 35px;
+}
 
 
 /*
@@ -811,6 +832,13 @@ Rotate Transition in foote Soical Icon
   background: #2b2a2A;
   box-shadow: 10px 10px 5px rgb(0 0 0 / 20%);
 }
+
+.rounded-social-buttons .social-button.youtube {
+  background: #2b2a2A;
+  box-shadow: 10px 10px 5px rgb(0 0 0 / 20%);
+}
+
+
 
 .rounded-social-buttons .social-button.linkedin:hover,
 .rounded-social-buttons .social-button.linkedin:focus {
