@@ -68,7 +68,7 @@ git pull upstream master
 
 > ### Guidelines for raising a new issue:
 >
-> - Each issue should have an appropriate and short title like "Bug in Experience Page"
+> - Each issue should have an appropriate and short title like "Bug in about Page"
 >
 > - Whenever a participant raises an issue, by default it would be assigned to that participant due to obvious reasons. 
 >
@@ -148,7 +148,7 @@ git push -u origin <your_branch_name>
 
 > ### Guidelines for raising a pull request:
 >
-> - Each pull request should have an appropriate and short title like "Fixed Bug in Experience Page"
+> - Each pull request should have an appropriate and short title like "Fixed Bug in About Page"
 >
 > - In case of multiple commits, please perform a rebase and make a squash commit before giving the pull request.
 >

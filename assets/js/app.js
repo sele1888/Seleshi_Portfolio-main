@@ -24,7 +24,7 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">About</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="about.html">About</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
@@ -249,6 +249,9 @@ let footer = $(`
                                     c6,5.1,10.8,11.5,13.8,18.8c2.9,7.4,7.7,24.1,41.5,17.8" />
     </svg>
     </a>
+      <!-- SVG code for youtube icon -->
+    
+   </svg>
     </div>
     </div>
    <p class="tag" >Copyright © All rights reserved.</p>
