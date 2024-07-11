@@ -91,12 +91,12 @@ section > div {
   color: var(--bg-txt-img);
 }
 
-.experience_head {
+.about_head {
   font-weight: bold;
 }
 
-/*color of experience page headings*/
-.my_experience {
+/*color of about page headings*/
+.my_about {
   color: #00b0ff
   ;
 }
@@ -116,11 +116,11 @@ section > div {
   }
 }
 
-.experience-cards {
+.about-cards {
   margin: 0 auto;
 }
 @media only screen and (max-width: 550px) {
-  .experience-cards {
+  .about-cards {
     overflow: hidden;
     padding-left: 30px;
     padding-right: 30px;

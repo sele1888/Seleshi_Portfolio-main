@@ -1,29 +1,29 @@
 AOS.init();
 
-//  Work experience cards
+//  Work about cards
 
-const experiencecards = document.querySelector(".experience-cards");
+const aboutcards = document.querySelector(".about-cards");
 const exp = [
   {
     title: "Full-Stack Developer ",
-    cardImage: "assets/images/experience-page/ex.png",
+    cardImage: "assets/images/about-page/ex.png",
     place: "Freelancer",
     time: "(June, 2022 - present)",
-    desp: "<li> I Made changes in the progressive web as Contract Web Developer.</li> <li>Made Implemented UI/UX enhancements progressive web applications</li> <li>As a passionate Full-Stack Developer eager to leverage my skills in a professional setting, I've actively honed my abilities by optimizing progressive web applications  through code modifications and feature enhancements. This experience, gained through freelance projects and personal initiatives, has equipped me to improve website performance, user experience, and functionality.</li>",
+    desp: "<li> I Made changes in the progressive web as Contract Web Developer.</li> <li>Made Implemented UI/UX enhancements progressive web applications</li> <li>As a passionate Full-Stack Developer eager to leverage my skills in a professional setting, I've actively honed my abilities by optimizing progressive web applications  through code modifications and feature enhancements. This about, gained through freelance projects and personal initiatives, has equipped me to improve website performance, user about, and functionality.</li>",
   },
   {
     title: "IT Trainer ",
-    cardImage: "assets/images/experience-page/Gage.png",
+    cardImage: "assets/images/about-page/Gage.png",
     place: "GAGE UNIVERSITY COLLEGE ",
     time: "(September 2018 - June, 2021)",
-    desp: "<li> Developed a diverse web development skillset Proficient in HTML, CSS (including Bootstrap), and JavaScript.</li><li>Strong worked to have students understanding of back-end technologies Experience with SQL databases.</li><li>Familiarity with programming languages: Exposure to PHP, Java, and Python</li><li>wored on  emerging technologies: Continuously learning and exploring new areas within the tech field.</li>",
+    desp: "<li> Developed a diverse web development skillset Proficient in HTML, CSS (including Bootstrap), and JavaScript.</li><li>Strong worked to have students understanding of back-end technologies about with SQL databases.</li><li>Familiarity with programming languages: Exposure to PHP, Java, and Python</li><li>wored on  emerging technologies: Continuously learning and exploring new areas within the tech field.</li>",
   },
   {
     title: "Research Intern",
-    cardImage: "assets/images/experience-page/unity.jpg",
+    cardImage: "assets/images/about-page/unity.jpg",
     place: "Web-Based Online Tour and Travel System",
     time: "(January, 17 - July, 2017)",
-    desp: "<li>Through this experience, I honed my research and analytical skills, while gaining valuable insights into user-centered design and the ever-evolving travel industry. I learned the importance of understanding user needs, staying abreast of new technologies, and collaborating effectively to develop innovative solutions..</li><li>Designed included functionalities like booking systems, payment integrations, and personalized recommendations.</li>",
+    desp: "<li>Through this about, I honed my research and analytical skills, while gaining valuable insights into user-centered design and the ever-evolving travel industry. I learned the importance of understanding user needs, staying abreast of new technologies, and collaborating effectively to develop innovative solutions..</li><li>Designed included functionalities like booking systems, payment integrations, and personalized recommendations.</li>",
   },
 ];
 
@@ -53,7 +53,7 @@ const showCards2 = () => {
     </div>
       `)
   );
-  experiencecards.innerHTML = output;
+  aboutcards.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards2);
 
@@ -63,25 +63,25 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Front-End Developer ",
-    cardImage: "assets/images/experience-page/html.png",
+    cardImage: "assets/images/about-page/html.png",
     description:
       "Solid Foundation: I've built a strong foundation in HTML syntax and best practices, allowing me to create well-structured and semantic web pages.",
   },
   {
     title: "UI/UX Developer",
-    cardImage: "assets/images/experience-page/css2.png",
+    cardImage: "assets/images/about-page/css2.png",
     description:
       "I can craft complex and responsive layouts using CSS, I have deep understanding of responsive design principles and frameworks like Bootstrap.",
   },
   {
     title: "Response Web Developer",
-    cardImage: "assets/images/experience-page/j2.jpg",
+    cardImage: "assets/images/about-page/j2.jpg",
     description:
       "I can be Building Interactive website (React, Angular, and Vue.js). My Portfolio showcase my skills & collaboration abilities.",
   },
   {
     title: "Back-End Developer",
-    cardImage: "assets/images/experience-page/back.jpg",
+    cardImage: "assets/images/about-page/back.jpg",
     description:
       "I'm a skilled back-end developer with expertise in PHP, Python, and Java. I craft APIs and server-side logic, leveraging my proficiency in SQL & MYSQL.",
   },
@@ -113,105 +113,105 @@ const mentor = [
   {
     title: "Aspiring Hackathon Participant",
     subtitle: "Coming soon ",
-    image: "assets/images/experience-page/h8.jpg",
+    image: "assets/images/about-page/h8.jpg",
     desp: "I'm an aspiring web developer with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about problem-solving and learning new technologies. While I haven't participated in a hackathon yet, I'm eager to leverage my skills and teamwork abilities to collaborate on innovative projects in future hackathons.",
     href: "#",
   },
   {
     title: "Coming soon",
     subtitle: "Stay Tuned!",
-    image: "assets/images/experience-page/h11.gif",
+    image: "assets/images/about-page/h11.gif",
     desp: "I'm an aspiring web developer with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about problem-solving and learning new technologies. While I haven't participated in a hackathon yet, I'm eager to leverage my skills and teamwork abilities to collaborate on innovative projects in future hackathons.",
     href: "#",
   },
   {
     title: "Coming soon",
     subtitle: "Stay Tuned !",
-    image: "assets/images/experience-page/h2.jpg",
+    image: "assets/images/about-page/h2.jpg",
     desp: "I'm an aspiring web developer with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about problem-solving and learning new technologies. While I haven't participated in a hackathon yet, I'm eager to leverage my skills and teamwork abilities to collaborate on innovative projects in future hackathons.",
     href: "#",
   },
   {
     title: "Coming soon",
     subtitle: "Stay Tuned !",
-    image: "assets/images/experience-page/h6.jpg",
+    image: "assets/images/about-page/h6.jpg",
     desp: "I'm an aspiring web developer with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about problem-solving and learning new technologies. While I haven't participated in a hackathon yet, I'm eager to leverage my skills and teamwork abilities to collaborate on innovative projects in future hackathons.",
     href: "#",
   },
   {
     title: "Coming soon",
     subtitle: "Stay Tuned !",
-    image: "assets/images/experience-page/h7.png",
+    image: "assets/images/about-page/h7.png",
     desp: "I'm an aspiring web developer with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about problem-solving and learning new technologies. While I haven't participated in a hackathon yet, I'm eager to leverage my skills and teamwork abilities to collaborate on innovative projects in future hackathons.",
     href: "#",
   },
   {
     title: "Coming soon",
     subtitle: "Stay Tuned !",
-    image: "assets/images/experience-page/h5.png",
+    image: "assets/images/about-page/h5.png",
     desp: "I'm an aspiring web developer with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about problem-solving and learning new technologies. While I haven't participated in a hackathon yet, I'm eager to leverage my skills and teamwork abilities to collaborate on innovative projects in future hackathons.",
     href: "#",
   },
   // {
   //   title: "UniGlobe Hacks",
   //   subtitle: "Judge",
-  //   image: "assets/images/experience-page/uniglobe.png",
+  //   image: "assets/images/about-page/uniglobe.png",
   //   desp: "UniGlobe Hacks 2.0 is an upcoming 4-day long hackathon run by high school students held during 28-31 July 2021.",
   //   href: "https://uniglobe-hacks.devpost.com/",
   // },
   // {
   //   title: "AtlasHacks",
   //   subtitle: "Mentor",
-  //   image: "assets/images/experience-page/atlas.png",
+  //   image: "assets/images/about-page/atlas.png",
   //   desp: "AtlasHacks II is a 3-day virtual hackathon that aims to foster creativity within hackers all around the world.",
   //   href: "https://atlashacks2.devpost.com/",
   // },
   // {
   //   title: "NeoHacks",
   //   subtitle: "Judge",
-  //   image: "assets/images/experience-page/neo.png",
+  //   image: "assets/images/about-page/neo.png",
   //   desp: "NeoHacks is an upcoming 48-hour hackathon taking place July 23-25, 2021 where hundreds of students from around the world will come together virtually to learn new skills, meet new friends, and build awesome projects. We provide beginner-friendly workshops, mentorship, fun games, and more.",
   //   href: "https://neohacks.org/",
   // },
   // {
   //   title: "Mission Inspired",
   //   subtitle: "Judge",
-  //   image: "assets/images/experience-page/mission.png",
-  //   desp: "InspireEd Hacks is a nationwide initiative organized by the student-for-student nonprofit, Mission InspirEd, challenging students ages 10-18 to synthesize their creativity and coding experience into a product beneficial to the educational community.",
+  //   image: "assets/images/about-page/mission.png",
+  //   desp: "InspireEd Hacks is a nationwide initiative organized by the student-for-student nonprofit, Mission InspirEd, challenging students ages 10-18 to synthesize their creativity and coding about into a product beneficial to the educational community.",
   //   href: "https://www.missioninspired.org/hackathon",
   // },
   // {
   //   title: "Hack3",
   //   subtitle: "Judge",
-  //   image: "assets/images/experience-page/hack3.png",
+  //   image: "assets/images/about-page/hack3.png",
   //   desp: "Hack3 2021 is an upcoming global online hackathon that aims to enable high school students to learn computer science, with a broader message of (everyone can code) targeting underrepresented demographics to improve diversity and inclusion of individuals in the computer technology space.",
   //   href: "https://hack3.co/",
   // },
   // {
   //   title: "JITHack",
   //   subtitle: "Mentor",
-  //   image: "assets/images/experience-page/jithack.png",
+  //   image: "assets/images/about-page/jithack.png",
   //   desp: "JITHack is an upcoming virtual design and development hackathon organized by the students of Jyothy Institute of Technology, Bengaluru on June 26, 2021, where participants have 24 hours to build something incredible.",
   //   href: "https://jithack.netlify.app/",
   // },
   // {
   //   title: "Recess Hacks",
   //   subtitle: "Mentor",
-  //   image: "assets/images/experience-page/recess.png",
+  //   image: "assets/images/about-page/recess.png",
   //   desp: "Recess Hacks is an upcoming hackathon for high school students in the Greater Toronto Area that strives to encourage innovation among high school students and get involved in technology.",
   //   href: "https://recesshacks.com/",
   // },
   // {
   //   title: "Citro Tech",
   //   subtitle: "Mentor",
-  //   image: "assets/images/experience-page/citro.png",
+  //   image: "assets/images/about-page/citro.png",
   //   desp: "Citro Hacks 2021 is an upcoming all-inclusive online hackathon organized by Citro Tech, a student led organization dedicated to empowering minorities in the tech field</li>",
   //   href: "https://citro.tech/",
   // },
   // {
   //   title: "NHacks",
   //   subtitle: "Judge",
-  //   image: "assets/images/experience-page/nhacks.png",
+  //   image: "assets/images/about-page/nhacks.png",
   //   desp: "NHacks VI was a hackathon that aimed to encourage students everywhere to develop skills in computer science by creating tangible products that they're proud of. It initially started as Michigan's largest high school hackathon.",
   //   href: "https://nhacks-vi.devpost.com/",
   // },

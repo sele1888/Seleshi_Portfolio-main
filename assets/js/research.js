@@ -61,7 +61,7 @@ const research = [
     title:
       "LockBit’s latest attack shows why fintech needs more zero trust",
     authors:
-      " “We’re going into the July 4th weekend, and I bet it’s no coincidence for this to hit now—security never takes a holiday”. Wise words from an experienced CISO.",
+      " “We’re going into the July 4th weekend, and I bet it’s no coincidence for this to hit now—security never takes a holiday”. Wise words from an about CISO.",
     conferences:
       "We want to hear from you! Take our quick AI survey and share your insights on the current state of AI, how you’re implementing it, and what you expect to see in the future.",
     researchYr: 2024,
@@ -72,7 +72,7 @@ const research = [
         "https://venturebeat.com/ai/lockbits-latest-attack-shows-why-fintech-needs-more-zero-trust/",
     },
     abstract:
-      "Fintech has a cybersecurity problem. LockBit’s ransomware attack on Evolve and the risk it placed on its partnership network show why the industry needs to focus more on the foundations of zero trust across financial networks. When the Federal Reserve finds gaps two weeks before a ransom attack, it’s time to rethink cyber resilience and cybersecurity at the company and industry level. CISOs are needed to bring the resilience and experience fintechs need to stay secure and grow.",
+      "Fintech has a cybersecurity problem. LockBit’s ransomware attack on Evolve and the risk it placed on its partnership network show why the industry needs to focus more on the foundations of zero trust across financial networks. When the Federal Reserve finds gaps two weeks before a ransom attack, it’s time to rethink cyber resilience and cybersecurity at the company and industry level. CISOs are needed to bring the resilience and about fintechs need to stay secure and grow.",
     absbox: "absPopup4",
   },
 
