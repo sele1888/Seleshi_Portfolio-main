@@ -9,7 +9,9 @@ document.body.appendChild(script);
 // Header  <li class="nav-item nav-item-hover"><a class="nav-link" href="event.html" target="_blank">Blogs</a></li> for new tab open 
 
 let header = $(`
+ 
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
+
 <a class="navbar-brand" href="index.html">Seleshi Mekonnen</a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
@@ -235,15 +237,7 @@ let footer = $(`
                             <circle cx="4" cy="4" r="2"></circle>
                             </svg>
     </a>
-      <!-- SVG code for facebook icon -->
-    <a class="social-button facebook" href="https://www.facebook.com/seleshi1?mibextid=ZbWKwL" target="_blank">
-    <!-- SVG code for Github icon -->
-   <svg class="facebook-icon" xmlns="http://www.w3.org/2000/svg" width="35"  viewBox="0 0 24 24" fill="#0e76a8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
-        <!-- body -->
-       
-                          <path fill="#5592E4" d="M20.9,2H3.1A1.1,1.1,0,0,0,2,3.1V20.9A1.1,1.1,0,0,0,3.1,22h9.58V14.25h-2.6v-3h2.6V9a3.64,3.64,0,0,1,3.88-4,20.26,20.26,0,0,1,2.33.12v2.7H17.3c-1.26,0-1.5.6-1.5,1.47v1.93h3l-.39,3H15.8V22h5.1A1.1,1.1,0,0,0,22,20.9V3.1A1.1,1.1,0,0,0,20.9,2Z"></path></svg>
-                            <rect x="2" y="9" width="4" height="12"></rect>
-                            <circle cx="4" cy="4" r="2"></circle>
+     
                               <!-- SVG code for whatsapp icon -->
     <a class="social-button whatsapp" href="https://wa.me/+251910428988" target="_blank">
     <!-- SVG code for whatsapp icon -->
@@ -290,7 +284,7 @@ let footer = $(`
    </svg>
     </div>
     </div>
-   <p class="tag" >Copyright © All rights reserved.</p>
+   <p class="tag" >2024 Copyright © All rights reserved.</p>
 </footer>
 `);
 

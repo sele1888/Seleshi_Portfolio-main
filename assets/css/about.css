@@ -97,8 +97,9 @@ section > div {
 
 /*color of about page headings*/
 .my_about {
-  color: #00b0ff
-  ;
+  color: #00b0ff;
+  font-family:Arial;
+  font: bold;
 }
 
 .sub-heading {
