@@ -284,7 +284,8 @@ let footer = $(`
    </svg>
     </div>
     </div>
-   <p class="tag" >2024 Copyright © All rights reserved.</p>
+    <br>
+   <p class="tag" > © 2024 Seleshi M.</p>
 </footer>
 `);
 
