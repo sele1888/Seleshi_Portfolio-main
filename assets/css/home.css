@@ -187,6 +187,7 @@ html[light-mode="dark"] .socialicon{
  .linkedin-icon{
   margin-left: 15px;
 }
+
 .linkedin:hover .linkedin-icon>rect{
   animation: rect-up 0.3s linear infinite;
 }
@@ -278,25 +279,34 @@ html[light-mode="dark"] .socialicon{
 }
 
 
+.nwhatsapp-icon{
+  width: 35px;
+  margin-left: 15px;
+}
 /*
 ---------------------------
    TWITTER MICROANIMATION
 ---------------------------
 */
-.twitter-icon{
+/* .twitter-icon{
   width: 40px;
   margin-left: 12px;
+} */
+
+.newtwitter-icon{
+  width: 35px;
+  margin-left: 15px;
 }
 
-.twitter:hover #wing1{
+/* .twitter:hover #wing1{
       transform-origin:center;
       animation: flap 0.4s ease-out infinite alternate;
-   }	
+   }	 */
    
-.twitter:hover #wing2{
+/* .twitter:hover #wing2{
     transform-origin:center;
     animation: flap 0.4s ease-in infinite alternate;
- }		
+ }		 */
 
 @keyframes flap{
      50%{
@@ -336,7 +346,7 @@ html[light-mode="dark"] .github-icon{
   --------------------------
   */
   
-  .dribbble-icon{
+  /* .dribbble-icon{
     width: 30px;
     height: 30px;
     margin-left:16px;
@@ -360,7 +370,7 @@ html[light-mode="dark"] .github-icon{
     75%{
       margin-top: 15px;
     }
-  }
+  } */
   
   /*
   --------------------------
