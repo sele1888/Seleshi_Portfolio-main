@@ -278,8 +278,16 @@ html[light-mode="dark"] .socialicon{
       }
 }
 
-
-.nwhatsapp-icon{
+/* -----center of icons */
+.whatsapp-icon{
+  width: 35px;
+  margin-left: 15px;
+}
+.telegram-icon{
+  width: 35px;
+  margin-left: 15px;
+}
+.youtube-icon{
   width: 35px;
   margin-left: 15px;
 }
