@@ -28,7 +28,7 @@ I developed and maintained a robust portfolio website for hearing company . This
 
 ### About Page:
 
-<p align="center"><img src="./readme_assets/about.gif"></p>
+<p align="center"><img src="./readme_assets/about 2.gif"></p>
 
 ### Project Page:
 
