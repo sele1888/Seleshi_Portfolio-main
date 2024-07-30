@@ -24,23 +24,23 @@ A community maintained open source project aimed at making personal portfolio fo
 
 ### Home Page:
 
-<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
+<p align="center"><img src="./readme_assets/H2.gif"></p>
 
 ### About Page:
 
-<p align="center"><img src="./readme_assets/About_Page.gif"></p>
+<p align="center"><img src="./readme_assets/about.gif"></p>
 
 ### Project Page:
 
-<p align="center"><img src="./readme_assets/Project_Page.gif"></p>
+<p align="center"><img src="./readme_assets/pro.gif"></p>
 
 ### Research Page:
 
-<p align="center"><img src="./readme_assets/Research_Page.gif"></p>
+<p align="center"><img src="./readme_assets/re.gif"></p>
 
 ### Education Page:
 
-<p align="center"><img src="./readme_assets/Education_Page.gif"></p>
+<p align="center"><img src="./readme_assets/edu.gif"></p>
 
 ## How to use this?🛠
 
