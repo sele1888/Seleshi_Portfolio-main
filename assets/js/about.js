@@ -2,60 +2,60 @@ AOS.init();
 
 //  Work about cards
 
-const aboutcards = document.querySelector(".about-cards");
-const exp = [
-  {
-    title: "Full-Stack Developer ",
-    cardImage: "assets/images/about-page/ex.png",
-    place: "Freelancer",
-    time: "(June, 2022 - present)",
-    desp: "<li> I Made changes in the progressive web as Contract Web Developer.</li> <li>Made Implemented UI/UX enhancements progressive web applications</li> <li>As a passionate Full-Stack Developer eager to leverage my skills in a professional setting, I've actively honed my abilities by optimizing progressive web applications  through code modifications and feature enhancements. This about, gained through freelance projects and personal initiatives, has equipped me to improve website performance, user about, and functionality.</li>",
-  },
-  {
-    title: "IT Trainer ",
-    cardImage: "assets/images/about-page/Gage.png",
-    place: "GAGE UNIVERSITY COLLEGE ",
-    time: "(September 2018 - June, 2021)",
-    desp: "<li> Developed a diverse web development skillset Proficient in HTML, CSS (including Bootstrap), and JavaScript.</li><li>Strong worked to have students understanding of back-end technologies about with SQL databases.</li><li>Familiarity with programming languages: Exposure to PHP, Java, and Python</li><li>wored on  emerging technologies: Continuously learning and exploring new areas within the tech field.</li>",
-  },
-  {
-    title: "Research Intern",
-    cardImage: "assets/images/about-page/unity.jpg",
-    place: "Web-Based Online Tour and Travel System",
-    time: "(January, 17 - July, 2017)",
-    desp: "<li>Through this about, I honed my research and analytical skills, while gaining valuable insights into user-centered design and the ever-evolving travel industry. I learned the importance of understanding user needs, staying abreast of new technologies, and collaborating effectively to develop innovative solutions..</li><li>Designed included functionalities like booking systems, payment integrations, and personalized recommendations.</li>",
-  },
-];
+// const aboutcards = document.querySelector(".about-cards");
+// const exp = [
+//   {
+//     title: "Full-Stack Developer ",
+//     cardImage: "assets/images/about-page/ex.png",
+//     place: "Freelancer",
+//     time: "(June, 2022 - present)",
+//     desp: "<li> I Made changes in the progressive web as Contract Web Developer.</li> <li>Made Implemented UI/UX enhancements progressive web applications</li> <li>As a passionate Full-Stack Developer eager to leverage my skills in a professional setting, I've actively honed my abilities by optimizing progressive web applications  through code modifications and feature enhancements. This about, gained through freelance projects and personal initiatives, has equipped me to improve website performance, user about, and functionality.</li>",
+//   },
+//   {
+//     title: "IT Trainer ",
+//     cardImage: "assets/images/about-page/Gage.png",
+//     place: "GAGE UNIVERSITY COLLEGE ",
+//     time: "(September 2018 - June, 2021)",
+//     desp: "<li> Developed a diverse web development skillset Proficient in HTML, CSS (including Bootstrap), and JavaScript.</li><li>Strong worked to have students understanding of back-end technologies about with SQL databases.</li><li>Familiarity with programming languages: Exposure to PHP, Java, and Python</li><li>wored on  emerging technologies: Continuously learning and exploring new areas within the tech field.</li>",
+//   },
+//   {
+//     title: "Research Intern",
+//     cardImage: "assets/images/about-page/unity.jpg",
+//     place: "Web-Based Online Tour and Travel System",
+//     time: "(January, 17 - July, 2017)",
+//     desp: "<li>Through this about, I honed my research and analytical skills, while gaining valuable insights into user-centered design and the ever-evolving travel industry. I learned the importance of understanding user needs, staying abreast of new technologies, and collaborating effectively to develop innovative solutions..</li><li>Designed included functionalities like booking systems, payment integrations, and personalized recommendations.</li>",
+//   },
+// ];
 
-const showCards2 = () => {
-  let output = "";
-  exp.forEach(
-    ({ title, cardImage, place, time, desp }) =>
-      (output += `        
-    <div class="col gaap" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="400"> 
-      <div class="card card1">
-        <img src="${cardImage}" class="featured-image"/>
-        <article class="card-body">
-          <header>
-            <div class="title">
-              <h3>${title}</h3>
-            </div>
-            <p class="meta">
-              <span class="pre-heading">${place}</span><br>
-              <span class="author">${time}</span>
-            </p>
-            <ol>
-              ${desp}
-            </ol>
-          </header>
-        </article>
-      </div>
-    </div>
-      `)
-  );
-  aboutcards.innerHTML = output;
-};
-document.addEventListener("DOMContentLoaded", showCards2);
+// const showCards2 = () => {
+//   let output = "";
+//   exp.forEach(
+//     ({ title, cardImage, place, time, desp }) =>
+//       (output += `        
+//     <div class="col gaap" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="400"> 
+//       <div class="card card1">
+//         <img src="${cardImage}" class="featured-image"/>
+//         <article class="card-body">
+//           <header>
+//             <div class="title">
+//               <h3>${title}</h3>
+//             </div>
+//             <p class="meta">
+//               <span class="pre-heading">${place}</span><br>
+//               <span class="author">${time}</span>
+//             </p>
+//             <ol>
+//               ${desp}
+//             </ol>
+//           </header>
+//         </article>
+//       </div>
+//     </div>
+//       `)
+//   );
+//   aboutcards.innerHTML = output;
+// };
+// document.addEventListener("DOMContentLoaded", showCards2);
 
 // Volunteership Cards
 
@@ -152,6 +152,7 @@ const mentor = [
     desp: "I'm an aspiring web developer with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about problem-solving and learning new technologies. While I haven't participated in a hackathon yet, I'm eager to leverage my skills and teamwork abilities to collaborate on innovative projects in future hackathons.",
     href: "#",
   },
+  // To be expanedable for the next work
   // {
   //   title: "UniGlobe Hacks",
   //   subtitle: "Judge",
