@@ -68,6 +68,7 @@ const moocscards = [
   },
 ];
 
+// add Certifications   
 const education = [
   {
     img: "assets/images/education-page/c1.png",
