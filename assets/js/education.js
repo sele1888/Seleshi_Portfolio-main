@@ -67,24 +67,48 @@ const moocscards = [
       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
   },
 ];
+const showCards5 = () => {
+  let output = "";
+  mentor.forEach(
+    ({ title, image, subtitle, desp, href }) =>
+      (output += `  
+      <div class="blog-slider__item swiper-slide">
+        <div class="blog-slider__img">
+            <img src="${image}" alt="">
+        </div>
+        <div class="blog-slider__content">
+          <div class="blog-slider__title">${title}</div>
+          <span class="blog-slider__code">${subtitle}</span>
+          <div class="blog-slider__text">${desp}</div>
+          <a href="${href}" class="blog-slider__button">Read More</a>   
+        </div>
+      </div>
+      `)
+  );
+  education.innerHTML = output;
+};
+document.addEventListener("DOMContentLoaded", showCards5);
 
-const about = [
-  {
-    img: "assets/images/education-page/c1.png",
-  },
-  {
-    img: "assets/images/education-page/c2.jpg",
-  },
-  {
-    img: "assets/images/education-page/c3.png",
-  },
-  {
-    img: "assets/images/education-page/c4.png",
-  },
-  {
-    img: "assets/images/education-page/c5.jpg",
-  },
-];
+// add Certifications  use design code
+
+
+// const education = [
+//   {
+//     img: "assets/images/education-page/c1.png",
+//   },
+//   {
+//     img: "assets/images/education-page/c2.jpg",
+//   },
+//   {
+//     img: "assets/images/education-page/c3.png",
+//   },
+//   {
+//     img: "assets/images/education-page/c4.png",
+//   },
+//   {
+//     img: "assets/images/education-page/c5.jpg",
+//   },
+// ];
 
 let currentItem = 0;
 
@@ -94,15 +118,15 @@ const prevBtn = document.querySelector("#prevBtn");
 const nextBtn = document.querySelector("#nextBtn");
 
 window.addEventListener("DOMContentLoaded", function () {
-  showAbout();
+  showEducaion();
 });
 
-function showAbout() {
+function showEducaion() {
   setInterval(function () {
-    if (currentItem === about.length) {
+    if (currentItem === education.length) {
       currentItem = 0;
     }
-    const item = about[currentItem];
+    const item = education[currentItem];
     img.src = item.img;
     currentItem++;
   }, 3000);
@@ -133,7 +157,7 @@ const showCards = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards);
 
-/* Badges*/
+// /* Badges*/
 
 const bagdes = document.querySelector(".badges");
 const badgesection = [
@@ -154,7 +178,7 @@ const badgesection = [
   },
 ];
 
-const showCards1 = () => {
+const showCards4 = () => {
   let output = "";
   badgesection.forEach(
     ({ title, image, description }) =>
@@ -167,7 +191,7 @@ const showCards1 = () => {
   );
   bagdes.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards1);
+document.addEventListener("DOMContentLoaded", showCards4);
 
 /* Timeline Section*/
 
