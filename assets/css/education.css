@@ -866,7 +866,7 @@ blockquote {
   padding: 0;
   display: flex;
   justify-content: center;
-  background: #fbfbf0;
+  background: #e5edf0;
 }
 .gallery_section a {
   display: flex;
@@ -879,7 +879,7 @@ blockquote {
   text-decoration: none;
   opacity: 0;
   border-radius: 2rem;
-  background-color: rgba(105, 186, 240, 0.7);
+  background-color: rgba(79, 91, 104, 0.7);
   transition: opacity 200ms ease-out;
 }
 .staggered-grid {
@@ -961,14 +961,14 @@ div.picture-container:nth-child(5) {
 
 .container_gallery {
   padding-top: 5px;
-  padding-bottom: 100px;
-  background-color: #fbfbf0;
+  padding-bottom: 10px;
+  background-color: #2b2a2A;
 }
 .container_gallery h2 {
   text-align: center;
 }
 .container_gallery .item1,  .container_gallery .item2{
-  margin-top: 100px;
+  margin-top: 5px;
 }
 /* gallery section ends */
 
