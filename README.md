@@ -20,7 +20,7 @@
 
 I developed and maintained a robust portfolio website for hearing company . This project combined my web development skills with a passion for knowledge sharing. The platform effectively highlights the company's work while providing a valuable resource for aspiring coders.
 
-## A sneak peek into what we have here🙈 :
+## A sneak peek into what I have here🙈 :
 
 ### Home Page:
 
