@@ -1,10 +1,10 @@
-![Awesome Portfolio Website](./readme_assets/01.png)
+![Seleshi Portfolio Website](./readme_assets/01.png)
 
 
 
 I developed and maintained a robust portfolio website for hearing company . This project combined my web development skills with a passion for knowledge sharing. The platform effectively highlights the company's work while providing a valuable resource for aspiring coders.
 
-## A sneak peek into what we have here🙈 :
+## A sneak peek into what I have here🙈 :
 
 ### Home Page:
 
@@ -32,11 +32,11 @@ I developed and maintained a robust portfolio website for hearing company . This
 
 ## Contribution Guidelines🏗
 
-Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further.
+When it necessary , I will invite you to contribute to this project and improve it further.
 
-Click on the image below to set up and contribute to the project or [Click here](https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/CONTRIBUTING.md)
+Click on the image below to set up and contribute to the project or [Click here]("")
 
-<a href = "https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/CONTRIBUTING.md">
+<a href = "">
 <img src = "./readme_assets/Contribution.png"></a> -->
 
 <!-- ## Project Maintainers👨🏫: -->
@@ -46,11 +46,7 @@ Click on the image below to set up and contribute to the project or [Click here]
 |     [Smaranjit Ghose](https://github.com/smaranjitghose) |    [Anush Bhatia](https://github.com/anushbhatia)                        -->
 
 
-<!-- ## Our valuable Contributors👩‍💻👨‍💻 : -->
-<!-- 
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=smaranjitghose/awesome-portfolio-websites" />
-</a> -->
+
 
 <!-- ## Open Source Programs we have been a part of: -->
 <!-- 
