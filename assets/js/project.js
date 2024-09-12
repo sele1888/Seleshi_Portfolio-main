@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Ezone",
+    title: "'Ezone' Launching Soon",
     cardImage: "assets/images/project-page/e1.jpg",
     description: "e-commerce site, offering a vast selection of products ranging from electronics and clothing to groceries and books.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -14,7 +14,7 @@ const projects = [
     Githublink: "https://github.com/sele1888",
   },
   {
-    title: "Online Schedule Appointments System",
+    title: " 'Online Schedule Appointments System' Launching Soon",
     cardImage: "assets/images/project-page/a.jpg",
     description: "An Online Schedule Appointments System allows users to book, reschedule, and manage appointments via the internet..",
     tagimg: "https://image.flaticon.com/icons/png/512/643/O1.png",
@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://github.com/sele1888",
   },
   {
-    title: "MarTreza payment system",
+    title: " 'MarTreza payment system ' Launching Soon",
     cardImage: "assets/images/project-page/9.jpg",
     description: "MarTreza offers a comprehensive payment system designed for seamless transactions.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -30,7 +30,7 @@ const projects = [
     Githublink: "https://github.com/sele1888",
   },
   {
-    title: "Physician Grades",
+    title: " 'Physician Grades' Launching Soon",
     cardImage: "assets/images/project-page/ph.png",
     description: "Physician Grades is an online resource designed to help patients find the best doctors..",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
@@ -38,7 +38,7 @@ const projects = [
     Githublink: "https://github.com/sele1888",
   },
   {
-    title: "Gimja KYC system",
+    title: " 'Gimja KYC system'  Launching Soon",
     cardImage: "assets/images/project-page/k.jpg",
     description: "KYC (Know Your Customer) system in the banking industry. It provides automated, AI-powered identity verification solutions that ensure compliance with regulatory requirements.",
     tagimg:
@@ -47,7 +47,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Business web site ",
+    title: " 'Business web site ' Launching Soon ",
     cardImage: "assets/images/project-page/w.jpg",
     description: "A business website should clearly communicate its purpose to visitors within seconds of landing on the homepage. This includes stating what the company offers, its unique value proposition, and how visitors can benefit from its products or services.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
@@ -55,7 +55,7 @@ const projects = [
     Githublink: "https://github.com/sele1888",
   },
   {
-    title: "Property Rent",
+    title: " 'Property Rent ' Under Construction",
     cardImage: "assets/images/project-page/p.jpg",
     description:
       "Property rent refers to the process of leasing or renting out real estate properties to tenants in exchange for periodic payments, usually monthly.",
@@ -73,7 +73,7 @@ const projects = [
     Githublink: "https://github.com/sele1888",
   },
   {
-    title: "Online Certification  ",
+    title: " 'Online Certification' Under Construction ",
     cardImage: "assets/images/project-page/O1.jpg",
     description:
       "Minesweeper Game built using python Object Oriented Programming.",
