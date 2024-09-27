@@ -20,9 +20,9 @@ const moocscards = [
     moocLink: "https://www.coursera.org/learn/machine-learning",
   },
   {
-    title: "Introduction to HTML 5",
+    title: "Programming Fundamentals",
     cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://www.udacity.com/dashboard",
   },
   {
     title: "Introduction to CSS 5",
