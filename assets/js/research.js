@@ -47,7 +47,7 @@ const research = [
       "THURSDAY, MAY 23,9:00 A.M. - 5:15 P.M.",
     researchYr: 2023,
     citebox: "popup3",
-    image: "assets/images/research-page/em.png",
+    image: "assets/images/research-page/ai.jpg",
     citation: {
       vancouver:
         "https://event.technologyreview.com/emtech-digital-us-2024/agenda-overview",
