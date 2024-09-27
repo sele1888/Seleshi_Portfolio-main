@@ -66,7 +66,7 @@ const research = [
       "We want to hear from you! Take our quick AI survey and share your insights on the current state of AI, how you’re implementing it, and what you expect to see in the future.",
     researchYr: 2024,
     citebox: "popup4",
-    image: "assets/images/research-page/KEY.png",
+    image: "assets/images/research-page/c1.jpg",
     citation: {
       vancouver:
         "https://venturebeat.com/ai/lockbits-latest-attack-shows-why-fintech-needs-more-zero-trust/",
